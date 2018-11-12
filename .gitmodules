@@ -7,3 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = ssh://git@alphacentauri-samworks.synology.me:30001/samworks/ffhs-deep-slumber-frontend.git
+[submodule "backend"]
+	path = backend
+	url = ssh://git@alphacentauri-samworks.synology.me:30001/samworks/ffhs-deep-slumber-backend.git
