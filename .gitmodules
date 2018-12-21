@@ -3,7 +3,7 @@
 	url = ssh://git@alphacentauri-samworks.synology.me:30001/samworks/ffhs-deep-slumber-documentation.git
 [submodule "hardware"]
 	path = hardware
-	url = ssh://git@alphacentauri-samworks.synology.me:30001/samworks/ffhs-deep-slumber-hardware.git
+url=git@github.com:samuelblattner/ffhs-deep-slumber-hardware.git
 [submodule "frontend"]
 	path = frontend
 url=git@github.com:samuelblattner/ffhs-deep-slumber-frontend.git
