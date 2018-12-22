@@ -12,12 +12,15 @@ The contents are as follows:
 
 #### Frontend
 VueJS-based, standalone frontend. 
+[Goto Frontend](https://github.com/samuelblattner/ffhs-deep-slumber-frontend)
 
 #### Backend
 PHP-based backend, using PostgreSQL, Propel ORM and Redis.
+[Goto Backend](https://github.com/samuelblattner/ffhs-deep-slumber-backend)
 
 #### Hardware
 Python-based hardware client for Raspberry PI.
+[Goto Hardware](https://github.com/samuelblattner/ffhs-deep-slumber-hardware)
 
 #### Documentation
 LaTex-based documentation of the project. 
